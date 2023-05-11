@@ -1,0 +1,21 @@
+body {
+ background-color: #f9c647;
+}
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+    color: #EA3733;
+    font-family: "bob's burgers 2";
+   font-size: 100px;
+}
+
+h3 {
+    font-family: "bob's burgers 2";
+    text-align: center;
+}
+.container {
+    border-radius: 15px;
+    margin: 20px;
+    background-color: rgb(152, 198, 233);
+}
